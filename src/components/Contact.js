@@ -10,7 +10,7 @@ function Contact() {
                 <input type="text" placeholder="Name" className="w-full p-2 mb-4 border border-gray-300 rounded text-sm md:text-base" />
                 <input type="email" placeholder="Email" className="w-full p-2 mb-4 border border-gray-300 rounded text-sm md:text-base" />
                 <textarea placeholder="Message" className="w-full p-2 mb-4 border border-gray-300 rounded text-sm md:text-base"></textarea>
-                <button className="w-full px-4 py-2 bg-darkPurple text-white rounded hover:bg-darkPurple text-sm md:text-base">
+                <button className="w-full px-4 py-2 bg-brandColor text-white rounded hover:bg-darkPurple text-sm md:text-base">
                     Submit
                 </button>
             </form>

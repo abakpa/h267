@@ -22,8 +22,8 @@ function AboutUsDetail() {
                 <div className="bg-black bg-opacity-50 p-8 w-full max-w-4xl">
                     <h1 className="text-4xl font-bold mb-4">About Us</h1>
                     <p className="text-lg">
-                        Welcome to Kamsy Chemicals! We are a leading supplier and importer of high-quality chemicals for various industries.
-                        incorporated as a private limited liability company on April 29th, 2009.
+                        Welcome to Vinmoore ventures! We are a leading supplier and importer of high-quality chemicals for various industries.
+                        incorporated as a private limited liability company on November 20th, 1998.
                         With years of experience and a commitment to quality, we strive to meet the needs of our customers and contribute to
                         the advancement of science and industry.
                     </p>
