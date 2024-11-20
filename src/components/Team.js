@@ -4,7 +4,7 @@ import research from '../components/images/R&D.jpeg';
 import sales from '../components/images/S&M2.jpeg';
 import operations from '../components/images/OPERATIONS2.jpeg';
 import support from '../components/images/contact2.avif';
-import ceo from '../components/images/vinmoore ceo.png';
+import ceo from '../components/images/h267ceo.jpeg';
 
 function Team() {
     const departments = [
@@ -31,10 +31,10 @@ function Team() {
     ];
 
     return (
-        <div className="container mx-auto py-12 mt-14">
+        <div className="container mx-auto py-12 mt-20">
             <h1 className="text-4xl font-bold text-center text-darkPurple mb-6">Meet Our Team</h1>
             <p className="text-lg text-gray-700 text-center mb-4">
-                Learn more about the visionaries and dedicated professionals behind Vinmoore ventures.
+                Learn more about the visionaries and dedicated professionals behind H267.
             </p>
 
             {/* Founder/CEO Section */}
@@ -44,10 +44,10 @@ function Team() {
                     alt="Founder/CEO"
                     className="w-32 h-32 mx-auto rounded-full"
                 />
-                <p className="text-xl font-semibold mt-2">Chief Vincent Uzuegbu</p>
-                <h2 className="text-sm font-semibold">Founder/CEO</h2>
+                <p className="text-xl font-semibold mt-2">Mrs Ifeoma Okenyi</p>
+                <h2 className="text-sm font-semibold">CEO</h2>
                 <p className="text-gray-700 mx-8 text-justify leading-relaxed md:leading-loose tracking-wide md:text-sm">
-    Chief Vincent Uzuegbu, the Founder and Chief Executive Officer (CEO) of Vinmoore ventures Limited, is a visionary entrepreneur and an exemplary leader with a profound passion for the chemical industry. With almost three decades of experience, Cheif Uzuegbu has played a pivotal role in revolutionizing the importation and distribution of chemical raw materials in Nigeria. From the inception of Vinmoore ventures in 1998, Chief Uzuegbu has steered the company with a commitment to innovation, integrity, and customer satisfaction. Under his leadership, Vinmoore ventures has grown from a budding enterprise to a recognized player in the chemical industry, known for its high-quality products and excellent service delivery. Chief Uzuegbu’s dedication to excellence and his in-depth understanding of the industry have enabled the company to establish strong partnerships with international manufacturers and suppliers, ensuring that clients receive only the best chemical raw materials for their needs. His strategic vision has not only driven the company’s success but has also inspired a team of professionals who share his passion for quality and sustainability. Beyond his role at Vinmoore ventures, Cheif Uzuegbu is deeply committed to contributing to societal development. He believes in empowering communities through job creation and ensuring that businesses operate ethically and responsibly. As a leader, Chief Vincent Uzuegbu continues to set benchmarks in the chemical industry, driving Vinmoore ventures towards new heights and solidifying its reputation as a trusted and innovative organization.
+    Mrs Ifeoma Okenyi, Chief Executive Officer (CEO) of H267, is a visionary entrepreneur and an exemplary leader with a profound passion for the chemical industry. With her wealth of experience, Mrs Okenyi has played a pivotal role in revolutionizing the importation and distribution of chemical raw materials in Nigeria. From the inception of H267 in 2020, Mrs Okenyi has steered the company with a commitment to innovation, integrity, and customer satisfaction. Under her leadership, H267 has grown from a budding enterprise to a recognized player in the chemical industry, known for its high-quality products and excellent service delivery. Mrs Okenyi’s dedication to excellence and her in-depth understanding of the industry have enabled the company to establish strong partnerships with international manufacturers and suppliers, ensuring that clients receive only the best chemical raw materials for their needs. Her strategic vision has not only driven the company’s success but has also inspired a team of professionals who share her passion for quality and sustainability. Beyond her role at H267, Mrs Okenyi is deeply committed to contributing to societal development. She believes in empowering communities through job creation and ensuring that businesses operate ethically and responsibly. As a leader, Mrs Ifeoma Okenyi continues to set benchmarks in the chemical industry, driving H267 towards new heights and solidifying its reputation as a trusted and innovative organization.
 </p>
 
 

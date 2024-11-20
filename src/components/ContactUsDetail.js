@@ -71,7 +71,7 @@ function ContactUsDetail() {
         <label for="message" class="block text-gray-700 font-semibold">Message</label>
         <textarea id="message" name="message" value={formData.message} onChange={handleChange} rows="4" required class="w-full p-2 border border-gray-300 rounded"></textarea>
       </div>
-      <button type="submit" class="bg-indigo-600 text-white py-2 px-4 rounded">Send Message</button>
+      <button type="submit" class="bg-menuColor text-brandColor hover:bg-brandColor hover:text-menuColor py-2 px-4 rounded">Send Message</button>
     </form>
                 </div>
               

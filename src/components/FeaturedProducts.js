@@ -22,8 +22,8 @@ function FeaturedProducts() {
                 ))}
             </div>
             <div>
-            <button className="mt-6 px-6 md:px-8 py-3 bg-brandColor text-white font-semibold rounded-lg hover:bg-blue-600">
-            <Link to="/products" className="hover:text-blue-300">
+            <button className="mt-6 px-6 md:px-8 py-3 bg-menuColor text-brandColor font-semibold rounded-lg hover:bg-brandColor hover:text-menuColor">
+            <Link to="/products">
                     View more Products
                     </Link>
                 </button>

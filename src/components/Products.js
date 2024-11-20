@@ -32,7 +32,7 @@ function Products() {
                             <h2 className="text-xl font-semibold text-gray-800">{product.name}</h2>
                             <p className="text-gray-600 mt-2">{product.description}</p>
                             <Link to={`/products/${product.id}`}>
-                            <button className="mt-4 px-4 py-2 bg-brandColor text-white font-semibold rounded-lg hover:bg-darkPurple">
+                            <button className="mt-4 px-4 py-2 bg-menuColor text-brandColor font-semibold rounded-lg hover:bg-brandColor hover:text-menuColor">
                                 View Details
                             </button>
                             </Link>
